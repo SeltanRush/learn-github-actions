@@ -1,0 +1,19 @@
+{
+  "name": "learn-github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@personal:SeltanRush/learn-github-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "jest": "^26.6.3"
+  }
+}
